@@ -1,1 +1,1 @@
-Welcome to test project
+Welcome to Summer Test Project
